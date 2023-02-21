@@ -1,2 +1,2 @@
-# introducingwebku
-hai ini adalah websiteku
+# Emberku
+ini adalah sebuah halaman website tentang saya :)
